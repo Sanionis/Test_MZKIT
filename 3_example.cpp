@@ -47,8 +47,8 @@ int main() {
     }
     else {
         y = sin(x + a - b);
-    }
-
+}
     printf("Результат y = %f\n", y);
     return 0;
 }
+// test commit
